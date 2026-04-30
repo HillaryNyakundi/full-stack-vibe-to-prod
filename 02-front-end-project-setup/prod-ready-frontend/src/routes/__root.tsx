@@ -3,8 +3,8 @@ import { TanStackRouterDevtools } from "@tanstack/router-devtools";
 
 export const Route = createRootRoute({
     component: () => (
-        <div className="min-h-screen bg-gray-950 text-gray-50">
-            <header className="flex justify-between p-4 bg-slate-900">
+        <div className="min-h-screen bg-gray-900 text-gray-50">
+            <header className="flex justify-between p-4 bg-slate-800">
                 <h1 className="text-5xl">
                     tapaScript | Prod-Ready Architecture
                 </h1>
