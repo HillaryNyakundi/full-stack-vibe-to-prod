@@ -6,7 +6,7 @@
 - What's Vibe Coding?
 - What's Full Stack Engineering?
 - What's Production Ready?.
-- Quick roadmap of what’s coming in this series.
+- A roadmap of what’s coming in this series.
 - Task and How to Submit
 
 ## 🫶 Support
