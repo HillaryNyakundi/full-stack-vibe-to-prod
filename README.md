@@ -40,3 +40,4 @@ You, all my `Stargazers`, are making it work. This is because of you. A BIG THAN
 ### Phase 1: React Foundations
 
 - **`01: Introduction- Vibe Coding vs Real Engineering`** - [Watch Video](https://youtu.be/sR_LMW15-bM) || [Source Code](https://github.com/tapascript/full-stack-vibe-to-prod/blob/main/01-intro-vibe-to-prod/README.md)
+- **`02: Front-End Project Setup`** - [Watch Video](https://youtu.be/yP4k5fsPMqs) || [Source Code](https://github.com/tapascript/full-stack-vibe-to-prod/blob/main/02-front-end-project-setup/README.md)
